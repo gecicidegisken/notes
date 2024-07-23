@@ -4,5 +4,6 @@
 
 layout: Post
 permalink: /
-title: home
+title: hello
+feedformat: card
 ---
