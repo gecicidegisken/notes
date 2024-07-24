@@ -4,13 +4,13 @@ layout: Stylesheet
 @import "fruity.css";
 
 
-html,
+/* html,
 html[data-theme="light"] {
-    --color-bg-main: #FFFFFF;
+    --color-bg-main: #fdeaea;
     --color-bg-sub: #FAFAFC;
     --color-text-main: #282832;
     --color-text-sub: #5D5D67;
-    --color-text-link: #2380ED;
+    --color-text-link: #d1345b;
     --color-border-dark: #363636;
     --color-border: #BABCBD;
     --color-border-light: #E5E5E5;
@@ -21,11 +21,11 @@ html[data-theme="dark"] {
     --color-bg-sub: #18181C;
     --color-text-main: #FAFAFC;
     --color-text-sub: #FFFEFF;
-    --color-text-link: #6D9EFF;
+    --color-text-link: #d1345b;
     --color-border-dark: #E6E6E6;
     --color-border: #696969;
     --color-border-light: #353535;
-}
+} */
 
 @media (prefers-color-scheme: dark) {
 
@@ -35,18 +35,18 @@ html[data-theme="dark"] {
         --color-bg-sub: #18181C;
         --color-text-main: #FAFAFC;
         --color-text-sub: #FFFEFF;
-        --color-text-link: #6D9EFF;
+        --color-text-link: #d1345b;
         --color-border-dark: #E6E6E6;
         --color-border: #696969;
         --color-border-light: #353535;
     }
 
     html[data-theme="light"] {
-        --color-bg-main: #FFFFFF;
+        --color-bg-main: #faf3f3;
         --color-bg-sub: #FAFAFC;
         --color-text-main: #282832;
         --color-text-sub: #5D5D67;
-        --color-text-link: #2380ED;
+        --color-text-link: #d1345b;
         --color-border-dark: #363636;
         --color-border: #BABCBD;
         --color-border-light: #E5E5E5;
