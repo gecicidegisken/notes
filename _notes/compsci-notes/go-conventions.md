@@ -14,7 +14,9 @@ summary:  Conventions for writing Go code
 > Think about context.
 > 
 > Use your judgment.
-> 
+
+
+
 - Use `MixedCase or camelCase`
     - Don’t use `names_with_underscore`
 - Acronyms should be all capitals
