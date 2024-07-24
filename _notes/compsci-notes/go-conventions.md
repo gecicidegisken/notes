@@ -6,7 +6,7 @@ tags: ["golang"]
 summary:  Conventions for writing Go code
 ---
 
-### **naming**
+### naming
 
 > Use short names.
 > 
@@ -40,7 +40,7 @@ Also check: [[clean code]]
 
 ---
 
-### **project layout**
+### project layout
 
 **package**
 
