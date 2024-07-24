@@ -21,6 +21,11 @@ tags: ["tag1", "tag2"]
 ## Adding a note
 - Add a new note in `_notes` folder. 
 
+## Referencing a note
+- You can reference a note by using the following syntax:
+```
+[[note.title]]
+```
 
 ## Theme 
 -  Thanks [Jekyll Garden](https://jekyll-garden.github.io/)
