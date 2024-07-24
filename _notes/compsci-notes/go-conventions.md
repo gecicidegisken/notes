@@ -34,7 +34,7 @@ prefer b to buffer
 - Keep **package names** short, don’t use underscores
 - **Test files** end in `⁠_test.go`⁠
 
-Also check: [clean code](clean-code.md)
+Also check: [[clean code]]
 
 ---
 
