@@ -1,5 +1,5 @@
 ---
-title : go: conventions
+title : "go: conventions"
 feed: show
 date : 16-05-2024
 tags: ["golang"]
