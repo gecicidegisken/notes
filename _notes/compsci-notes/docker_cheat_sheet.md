@@ -8,32 +8,37 @@ summary: Docker cheat sheet
 
 **Work In Progress**
 
-**build an image from a Dockerfile**
+### build an image from a Dockerfile
 
 ```bash
 docker build -t <image-name> <path-to-dockerfile>
 ```
 
-**run container**
+### run container
 
 ```bash
 docker run <image-name>
 ```
 
+#### some run flags
 
-**limit memory usage**
+- `--rm`    **remove container after it exits**
 
-`--memory=,`, `-m` → Sets a hard limit to the maximum physical memory a container can utilize (with a minimum of 6 MB).
+    Automatically remove the container when it exits.
 
-The value of memory-limit should be a positive integer followed by the suffix b, k, m, or g (short for bytes, kilobytes, megabytes, or gigabytes).
 
-```bash
-docker run -m 300M myimage:1.0
-```
-
-**give environment variable**
+- `-it`  **interactive terminal**
     
-    ```bash
-    docker run -e MYVAR=foo myimage:1.0
-    ```
+    Run the container in interactive mode. This flag is used to keep the container running and open a terminal to interact with it.
+
+- `-m`  **limit memory usage**
+
+    Set a hard limit to the maximum physical memory a container can utilize (with a minimum of 6 MB).
+    
+    The value of memory-limit should be a positive integer followed by the suffix b, k, m, or g (short for bytes, kilobytes, megabytes, or gigabytes).
+
+- `-e`  **set environment variables**    
+    
+    Set an environment variable in the container.  \
+    `docker run -e MYVAR=foo myimage`
 
