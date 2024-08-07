@@ -26,10 +26,10 @@ import _ "net/http/pprof"
 **starting the pprof server**
 
 ````go
-	go func() {
-		http.ListenAndServe("localhost:6060", nil)
-		slog.Debug("pprof server started")
-	}()
+go func() {
+    http.ListenAndServe("localhost:6060", nil)
+    slog.Debug("pprof server started")
+}()
 ````
 This step is to start the pprof server, which will be used to get the memory profiling data. Added this to the beginning of the main function.
 

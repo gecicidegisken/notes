@@ -55,7 +55,7 @@ html[data-theme="dark"] {
 
 :root {
     --text-xs: clamp(0.70rem, calc(0.79rem + -0.06vw), 0.78rem);
-    --text-s: clamp(0.94rem, calc(0.94rem + 0.00vw), 0.94rem);
+    --text-s: clamp(1rem, calc(0.94rem + 0.00vw), 0.94rem);
     --text-m: clamp(1.13rem, calc(1.11rem + 0.09vw), 1.25rem);
     --text-l: clamp(1.35rem, calc(1.30rem + 0.23vw), 1.67rem);
     --text-xl: clamp(1.62rem, calc(1.53rem + 0.43vw), 2.22rem);
@@ -81,58 +81,61 @@ html[data-theme="dark"] {
 }
 
 h1 {
-    font-size: var(--text-xxl);
+    font-size: var(--text-xl);
     line-height: var(--text-leading-narrow);
     font-weight: var(--text-weight-normal);
     padding: var(--padding-normal) 0;
 }
 
 h2 {
-    font-size: var(--text-xl);
+    font-size: var(--text-l);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-bold);
     padding: var(--padding-normal) 0;
 }
 
 h3 {
-    font-size: var(--text-xl);
+    font-size: var(--text-l);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
     padding: var(--padding-normal) 0;
 }
 
 h4 {
-    font-size: var(--text-l);
+    font-size: var(--text-m);
     line-height: var(--text-leading-wide);
     font-weight: var(--text-weight-bold);
     padding: var(--padding-thin) 0;
 }
 
 h5 {
-    font-size: var(--text-l);
+    font-size: var(--text-m);
     line-height: var(--text-leading-wide);
     font-weight: var(--text-weight-normal);
     padding: var(--padding-thin) 0;
 }
 
 h6 {
-    font-size: var(--text-m);
+    font-size: var(--text-s);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-bold);
     padding: var(--padding-thin) 0;
 }
 
 p {
-    font-size: var(--text-m);
+    font-size: var(--text-s);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-weight-normal);
     margin: 0 0 1em 0;
 }
 
 code {
-    font-size: var(--text-m);
+    font-size: var(--text-s);
     font-weight: var(--text-leading-normal);
     padding: 0.25em 0.5em 0.25em;
+    background-color: var(--color-border-light);
+    font-family: Consolas, 'Courier New', Courier, monospace !important;
+
 }
 
 h1,

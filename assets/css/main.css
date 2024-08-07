@@ -242,7 +242,7 @@ pre {
 
 body {
   color: var(--color-text-main);
-  font-size: var(--text-m);
+  font-size: var(--text-s);
   font-weight: 400;
   line-height: 1.4;
   padding: 1rem;
