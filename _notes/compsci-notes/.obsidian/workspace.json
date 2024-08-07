@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b7b86f300a8c6b2",
+        "id": "9f2b20b1915e7747",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb687f58daaf319",
+            "id": "abbfcd837ebe65df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,10 +147,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1eb687f58daaf319",
+  "active": "abbfcd837ebe65df",
   "lastOpenFiles": [
-    "test git plugin.md",
+    "test plugin.md",
     "templates/new note.md",
+    "test git plugin.md",
     "Untitled.canvas",
     "til.md",
     "sd.md",
