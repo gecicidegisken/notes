@@ -143,14 +143,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
     }
   },
   "active": "13659ef97ff1f973",
   "lastOpenFiles": [
+    "templates/new note.md",
     "sd.md",
     "go conventions.md",
-    "templates/new note.md",
     "clean code.md",
     "containers.md",
     "templates",
