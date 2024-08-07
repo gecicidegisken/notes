@@ -1,8 +1,10 @@
 ---
-title: "docker cheat sheet"
+title: docker cheat sheet
 feed: show
 date: 26-07-2024
-tags: [docker, container]
+tags:
+  - docker
+  - containers
 summary: Docker cheat sheet
 ---
 

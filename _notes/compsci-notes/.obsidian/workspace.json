@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python magic methods.md",
+                "file": "go conventions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python magic methods.md",
+                "file": "go conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python magic methods.md",
+                "file": "go conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python magic methods.md"
+                "file": "go conventions.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,19 +157,19 @@
   },
   "active": "4e3280145ca1b5ee",
   "lastOpenFiles": [
-    "til.md",
-    "docker cheat sheet.md",
     "clean code.md",
-    "containers.md",
-    "python magic methods.md",
-    "templates/new note.md",
+    "docker cheat sheet.md",
+    "go conventions.md",
     "go memory profiling.md",
+    "python magic methods.md",
+    "til.md",
+    "containers.md",
+    "templates/new note.md",
     "test.md",
     "test plugin.md",
     "test git plugin.md",
     "Untitled.canvas",
     "sd.md",
-    "go conventions.md",
     "templates"
   ]
 }

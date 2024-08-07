@@ -1,8 +1,9 @@
 ---
-title : clean code
+title: clean code
 feed: show
-date : 01-03-2024
-tags: ["clean code"]
+date: 01-03-2024
+tags:
+  - clean_code
 summary: My reading notes on clean code lectures by Uncle Bob
 ---
 

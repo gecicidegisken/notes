@@ -11,7 +11,6 @@ summary: Conventions for writing Go code
 
 > Use short names.
 > 
-> 
 > Think about context.
 > 
 > Use your judgment.
@@ -24,15 +23,12 @@ summary: Conventions for writing Go code
     - `⁠ServeHTTP` ⁠ or `⁠IDProcessor`⁠
 - Keep **local variables** short
     - prefer i to index
-
-prefer r to reader
-
-prefer b to buffer
-- Prefer `count` to `runeCount` inside a function named `RuneCount`.
+	- prefer r to reader
+	- prefer b to buffer
+	- prefer `count` to `runeCount` inside a function named `RuneCount`.
 
 - Exported names are qualified by their package names.
-    - That’s why we have `bytes.Buffer` and `strings.Reader`,
-    not `bytes.ByteBuffer` and `strings.StringReader`.
+	- That’s why we have `bytes.Buffer` and `strings.Reader`, not `bytes.ByteBuffer` and `strings.StringReader`.
 - Exported names start with capital letter, so that they can be used in other packages.
 - Keep **package names** short, don’t use underscores
 - **Test files** end in `⁠_test.go`⁠
