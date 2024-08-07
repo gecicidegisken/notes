@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test git plugin.md",
+                "file": "templates/new note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test git plugin.md",
+                "file": "templates/new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test git plugin.md",
+                "file": "templates/new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test git plugin.md"
+                "file": "templates/new note.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "74cfd1291a57c18e",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "test git plugin.md",
+    "Untitled.canvas",
     "templates/new note.md",
     "til.md",
     "sd.md",

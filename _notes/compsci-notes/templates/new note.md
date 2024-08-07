@@ -1,7 +1,7 @@
 ---
-title: 
+title: new note
 feed: hide
-date: 07-20-2024
+date: {{date}}
 tags: 
-summary:
+summary: note template
 ---
