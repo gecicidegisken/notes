@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2b20b1915e7747",
+        "id": "0f40eec8b06114bf",
         "type": "tabs",
         "children": [
           {
-            "id": "abbfcd837ebe65df",
+            "id": "4e3280145ca1b5ee",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "_notes/compsci-notes/.obsidian/workspace.json",
-                "staged": false
+                "file": "python magic methods.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python magic methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "python magic methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python magic methods.md"
+              }
             }
           },
           {
@@ -137,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,21 +156,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "abbfcd837ebe65df",
+  "active": "4e3280145ca1b5ee",
   "lastOpenFiles": [
     "til.md",
-    "test.md",
-    "templates/new note.md",
-    "test plugin.md",
+    "docker cheat sheet.md",
     "clean code.md",
+    "containers.md",
+    "python magic methods.md",
+    "templates/new note.md",
+    "go memory profiling.md",
+    "test.md",
+    "test plugin.md",
     "test git plugin.md",
     "Untitled.canvas",
     "sd.md",
     "go conventions.md",
-    "containers.md",
-    "templates",
-    "python magic methods.md",
-    "go memory profiling.md",
-    "docker cheat sheet.md"
+    "templates"
   ]
 }
