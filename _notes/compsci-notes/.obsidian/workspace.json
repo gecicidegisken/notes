@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f40eec8b06114bf",
+        "id": "58e41a93c5993b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "4e3280145ca1b5ee",
+            "id": "721771a2977685ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go conventions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "go conventions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,20 +140,18 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false
     }
   },
-  "active": "4e3280145ca1b5ee",
+  "active": "721771a2977685ea",
   "lastOpenFiles": [
+    "go conventions.md",
+    "clean code.md",
     "go memory profiling.md",
     "containers.md",
-    "clean code.md",
     "templates/new note.md",
-    "go conventions.md",
     "docker cheat sheet.md",
     "python magic methods.md",
     "til.md",

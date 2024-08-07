@@ -1,4 +1,7 @@
 {
   "spellcheck": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "templates/"
+  ]
 }
