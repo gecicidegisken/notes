@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "21c39adcc3da3f5b",
+        "id": "3b7b86f300a8c6b2",
         "type": "tabs",
         "children": [
           {
-            "id": "74cfd1291a57c18e",
+            "id": "1eb687f58daaf319",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/new note.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/new note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,11 +147,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "74cfd1291a57c18e",
+  "active": "1eb687f58daaf319",
   "lastOpenFiles": [
     "test git plugin.md",
-    "Untitled.canvas",
     "templates/new note.md",
+    "Untitled.canvas",
     "til.md",
     "sd.md",
     "go conventions.md",
