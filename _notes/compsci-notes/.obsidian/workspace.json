@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "822e3459c33e6914",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74a1aa10714b780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13659ef97ff1f973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc491d6166d6cb3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "54a2b537a8f0c31f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7f8e45ea10bf75a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "076678d5252d10d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87a2c728bee87596",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1128b1f169501c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d16d043a7c872a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec349f85bdaefab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31e29f1c7d64d966",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab423ee61dbb3ea4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aedcd2bfefa8b3f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sd.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "13659ef97ff1f973",
+  "lastOpenFiles": [
+    "sd.md",
+    "go conventions.md",
+    "templates/new note.md",
+    "clean code.md",
+    "containers.md",
+    "templates",
+    "python magic methods.md",
+    "go memory profiling.md",
+    "docker cheat sheet.md"
+  ]
+}

@@ -1,9 +1,10 @@
 ---
-title : "go: conventions"
+title: "go: conventions"
 feed: show
-date : 16-05-2024
-tags: ["golang"]
-summary:  Conventions for writing Go code
+date: 07-August-2024
+tags:
+  - golang
+summary: Conventions for writing Go code
 ---
 
 ### naming

@@ -1,9 +1,10 @@
 ---
-title : what are containers made from
+title: what are containers made from
 feed: show
-date : 16-05-2024
-tags: ["containers"]
-summary: 
+date: 16-05-2024
+tags:
+  - containers
+summary: what are containers made from
 ---
 References:
 
