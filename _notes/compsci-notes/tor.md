@@ -5,4 +5,4 @@ feed: show
 tags: 
 summary:
 ---
-![[Pasted image 20240808140141.png]]
+![[tor.png]]
