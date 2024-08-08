@@ -1,9 +1,10 @@
 ---
 title: "go: conventions"
 feed: show
-date: 07-August-2024
+date: 07-08-2024
 tags:
   - golang
+  - clean_code
 summary: Conventions for writing Go code
 ---
 
@@ -47,11 +48,11 @@ All the files in a package live in a single directory. Packages collect related 
 
 This is the code you don’t want others importing in their applications or libraries. Enforced by Go compiler.
 
-`⁠**/pkg**`
+`⁠/pkg`
 
 ⁠Can be used by external applications. Other projects will import these libraries expecting them to work.
 
-- `*⁠/vendor**`
+`⁠/vendor`
 
 ⁠Application dependencies.
 
@@ -61,7 +62,7 @@ The `go mod vendor` command will create the `/vendor` directory for you.
 
 Configuration file templates or default configs.
 
-`⁠**/test**⁠` ⁠
+`⁠/test⁠` ⁠
 
 Additional external test apps and test data. Feel free to structure the `/test` directory anyway you want. For bigger projects it makes sense to have a data subdirectory.
 

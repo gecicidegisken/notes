@@ -31,7 +31,7 @@ in this contenxt, python will check `⁠bool(a_string)`⁠ and `⁠bool(5)`⁠
 ### **why `len()` is not a method?**
 
 - In Python, builtin types (like list) are C structs containing a field called `⁠ob_size`⁠, which contains the element number in the collection. When `⁠len(x)`⁠ is used, instead of calling `⁠x.__len__`⁠, interpreter gets the value of `⁠x.ob_size`⁠, which is much faster than calling a method.
-- *“No method is called for the built-in objects of CPython: the length is simply read from a field in a C struct.
-Getting the number of items in a collection is a common operation and must work efficiently for such basic and diverse types as str, list, memoryview, and so on.”*
+- *“No method is called for the built-in objects of CPython: the length is simply read from a field in a C struct. 
+  Getting the number of items in a collection is a common operation and must work efficiently for such basic and diverse types as str, list, memoryview, and so on.”*
 
 ---

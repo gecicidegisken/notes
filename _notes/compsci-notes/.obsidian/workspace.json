@@ -11,8 +11,13 @@
             "id": "721771a2977685ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "clean code.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "clean code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "clean code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "clean code.md"
+              }
             }
           },
           {
@@ -129,12 +138,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,16 +154,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "721771a2977685ea",
+  "active": "a8e0b56ea7f63830",
   "lastOpenFiles": [
+    "containers.md",
+    "docker cheat sheet.md",
+    "go memory profiling.md",
+    "til.md",
+    "python magic methods.md",
     "go conventions.md",
     "clean code.md",
-    "go memory profiling.md",
-    "containers.md",
     "templates/new note.md",
-    "docker cheat sheet.md",
-    "python magic methods.md",
-    "til.md",
     "test.md",
     "test plugin.md",
     "test git plugin.md",

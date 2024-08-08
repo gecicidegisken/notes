@@ -3,5 +3,7 @@
   "showInlineTitle": false,
   "userIgnoreFilters": [
     "templates/"
-  ]
+  ],
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "visible"
 }
