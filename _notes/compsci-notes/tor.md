@@ -1,7 +1,7 @@
 ---
 title: tor & onion routing
 date: 07-08-2024
-feed: show
+feed: hide
 tags: 
 summary:
 ---
