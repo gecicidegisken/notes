@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +155,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "721771a2977685ea",
+  "active": "a8e0b56ea7f63830",
   "lastOpenFiles": [
     "clean code.md",
     "tor.md",
