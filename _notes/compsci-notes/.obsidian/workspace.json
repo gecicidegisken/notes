@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tor.md",
-                "mode": "source",
+                "file": "go memory profiling.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tor.md",
+                "file": "go memory profiling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tor.md",
+                "file": "go memory profiling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tor.md"
+                "file": "go memory profiling.md"
               }
             }
           },
@@ -155,22 +155,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a8e0b56ea7f63830",
+  "active": "721771a2977685ea",
   "lastOpenFiles": [
+    "python magic methods.md",
+    "go memory profiling.md",
     "clean code.md",
-    "tor.md",
+    "containers.md",
+    "docker cheat sheet.md",
     "images/tor.png",
+    "templates/new note.md",
+    "til.md",
+    "tor.md",
     "images",
     "untitled folder",
     "tor.png",
     "Pasted image 20240808140141.png",
-    "containers.md",
-    "docker cheat sheet.md",
-    "go memory profiling.md",
-    "til.md",
-    "python magic methods.md",
     "go conventions.md",
-    "templates/new note.md",
     "test.md",
     "test plugin.md",
     "test git plugin.md",

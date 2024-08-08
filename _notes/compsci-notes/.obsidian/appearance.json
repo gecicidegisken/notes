@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Primary",
-  "theme": "moonstone",
-  "accentColor": "#6eb0b4"
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "accentColor": "#921c1c",
+  "baseFontSize": 18
 }
