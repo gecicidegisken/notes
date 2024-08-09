@@ -1,6 +1,8 @@
 {
-  "cssTheme": "Things",
-  "theme": "obsidian",
+  "cssTheme": "Primary",
+  "theme": "moonstone",
   "accentColor": "#921c1c",
-  "baseFontSize": 18
+  "baseFontSize": 16,
+  "translucency": false,
+  "nativeMenus": true
 }

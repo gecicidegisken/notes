@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "58e41a93c5993b4e",
+        "id": "483dd2f69e003bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "721771a2977685ea",
+            "id": "8d42a4e0eb5ea309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go memory profiling.md",
+                "file": "clean code.md",
                 "mode": "preview",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go memory profiling.md",
+                "file": "clean code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "go memory profiling.md",
+                "file": "clean code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "go memory profiling.md"
+                "file": "clean code.md"
               }
             }
           },
@@ -155,22 +155,26 @@
       "random-note:Open random note": false
     }
   },
-  "active": "721771a2977685ea",
+  "active": "8d42a4e0eb5ea309",
   "lastOpenFiles": [
-    "python magic methods.md",
-    "go memory profiling.md",
-    "clean code.md",
     "containers.md",
+    "go memory profiling.md",
+    "python magic methods.md",
+    "search & learn these.md",
+    "go conventions.md",
     "docker cheat sheet.md",
-    "images/tor.png",
+    "clean code.md",
+    "Untitled/Untitled.md",
+    "Untitled 1",
+    "Untitled",
     "templates/new note.md",
+    "images/tor.png",
     "til.md",
     "tor.md",
     "images",
     "untitled folder",
     "tor.png",
     "Pasted image 20240808140141.png",
-    "go conventions.md",
     "test.md",
     "test plugin.md",
     "test git plugin.md",
