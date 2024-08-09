@@ -1,1 +1,5 @@
-{}
+{
+  "primary-theme@@colorful-folders_text": true,
+  "primary-theme@@colorful-folders_inherit-color": true,
+  "primary-theme@@editor-file-header": "file-header-default"
+}

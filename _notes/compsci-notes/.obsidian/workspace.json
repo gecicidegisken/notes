@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "483dd2f69e003bc9",
+        "id": "cd7307d949476656",
         "type": "tabs",
         "children": [
           {
-            "id": "8d42a4e0eb5ea309",
+            "id": "dbd025f6410251b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clean code.md",
+                "file": "go conventions.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clean code.md",
+                "file": "go conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clean code.md",
+                "file": "go conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clean code.md"
+                "file": "go conventions.md"
               }
             }
           },
@@ -155,22 +155,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8d42a4e0eb5ea309",
+  "active": "dbd025f6410251b9",
   "lastOpenFiles": [
-    "containers.md",
-    "go memory profiling.md",
-    "python magic methods.md",
-    "search & learn these.md",
-    "go conventions.md",
     "docker cheat sheet.md",
+    "containers.md",
     "clean code.md",
+    "tor.md",
+    "til.md",
+    "search & learn these.md",
+    "python magic methods.md",
+    "go memory profiling.md",
+    "go conventions.md",
     "Untitled/Untitled.md",
     "Untitled 1",
     "Untitled",
     "templates/new note.md",
     "images/tor.png",
-    "til.md",
-    "tor.md",
     "images",
     "untitled folder",
     "tor.png",
