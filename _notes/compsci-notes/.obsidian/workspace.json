@@ -11,8 +11,13 @@
             "id": "f860e5e7b3bbb14a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "learning resources/🐙 ⭐️ learn these.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "learning resources/🐙 ⭐️ learn these.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "learning resources/🐙 ⭐️ learn these.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "learning resources/🐙 ⭐️ learn these.md"
+              }
             }
           },
           {
@@ -148,18 +157,21 @@
   },
   "active": "f860e5e7b3bbb14a",
   "lastOpenFiles": [
+    "learning resources/gopher reading list.md",
+    "learning resources/🐙 ⭐️ learn these.md",
+    "resource archive.md",
+    "learning resources",
+    "python magic methods.md",
+    "tor.md",
     "go memory profiling.md",
     "docker cheat sheet.md",
-    "tor.md",
     "clean code.md",
-    "python magic methods.md",
     "search & learn these.md",
     "go conventions.md",
     "containers.md",
     "til.md",
     "Untitled/Untitled.md",
     "Untitled 1",
-    "Untitled",
     "templates/new note.md",
     "images/tor.png",
     "images",
