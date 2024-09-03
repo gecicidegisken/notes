@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c1fece02b19f7e8",
+        "id": "dbf0bec7fdf82a76",
         "type": "tabs",
         "children": [
           {
-            "id": "f860e5e7b3bbb14a",
+            "id": "6b49d71bcf25f97f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning resources/🐙 ⭐️ learn these.md",
+                "file": "2fa notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning resources/🐙 ⭐️ learn these.md",
+                "file": "2fa notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning resources/🐙 ⭐️ learn these.md",
+                "file": "2fa notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning resources/🐙 ⭐️ learn these.md"
+                "file": "2fa notes.md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f860e5e7b3bbb14a",
+  "active": "6b49d71bcf25f97f",
   "lastOpenFiles": [
-    "learning resources/gopher reading list.md",
+    "2fa notes.md",
     "learning resources/🐙 ⭐️ learn these.md",
+    "learning resources/gopher reading list.md",
     "resource archive.md",
     "learning resources",
     "python magic methods.md",
