@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "401f0bf266cd78e2",
+        "id": "93cc77e7d085bdbb",
         "type": "tabs",
         "children": [
           {
-            "id": "5a1e021fb28e735b",
+            "id": "a9262d9dabbd1425",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "til.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,14 +146,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5a1e021fb28e735b",
+  "active": "a9262d9dabbd1425",
   "lastOpenFiles": [
+    "learning resources/🐙 ⭐️ learn these.md",
+    "learning resources/gopher reading list.md",
+    "til.md",
     "docker cheat sheet.md",
     "go memory profiling.md",
     "work in progress notes.md",
     "2fa notes.md",
-    "learning resources/🐙 ⭐️ learn these.md",
-    "learning resources/gopher reading list.md",
     "resource archive.md",
     "learning resources",
     "python magic methods.md",
@@ -171,7 +163,6 @@
     "search & learn these.md",
     "go conventions.md",
     "containers.md",
-    "til.md",
     "Untitled/Untitled.md",
     "Untitled 1",
     "templates/new note.md",
