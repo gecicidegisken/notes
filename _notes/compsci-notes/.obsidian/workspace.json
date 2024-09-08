@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work in progress notes.md",
+                "file": "til.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work in progress notes.md",
+                "file": "til.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work in progress notes.md",
+                "file": "til.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work in progress notes.md"
+                "file": "til.md"
               }
             }
           },
@@ -157,16 +157,16 @@
   },
   "active": "5a1e021fb28e735b",
   "lastOpenFiles": [
-    "2fa notes.md",
+    "docker cheat sheet.md",
+    "go memory profiling.md",
     "work in progress notes.md",
+    "2fa notes.md",
     "learning resources/🐙 ⭐️ learn these.md",
     "learning resources/gopher reading list.md",
     "resource archive.md",
     "learning resources",
     "python magic methods.md",
     "tor.md",
-    "go memory profiling.md",
-    "docker cheat sheet.md",
     "clean code.md",
     "search & learn these.md",
     "go conventions.md",
